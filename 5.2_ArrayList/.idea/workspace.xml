@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="526c85aa-7b85-49bf-8f48-d1d4c5f6489e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../1_Hello_world/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_Hello_world/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_Hello_world/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_Hello_world/1_Hello_world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_Hello_world/out/production/1_Hello_world/Hello_world.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1_Hello_world/src/Hello_world.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_Circle_area/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_Circle_area/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_Circle_area/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_Circle_area/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_Circle_area/2.1_Circle_area.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_Circle_area/out/production/2.1_Circle_area/Area.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.1_Circle_area/src/Area.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2_Leap_year/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2_Leap_year/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2_Leap_year/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2_Leap_year/2.2_Leap_year.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2_Leap_year/out/production/2.2_Leap_year/Leap_year.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2.2_Leap_year/src/Leap_year.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1_Method_Overloading/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1_Method_Overloading/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1_Method_Overloading/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1_Method_Overloading/3.1_Method_Overloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1_Method_Overloading/out/production/3.1_Method_Overloading/Duration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.1_Method_Overloading/src/Duration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2_User_input/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2_User_input/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2_User_input/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2_User_input/3.2_User_input.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2_User_input/out/production/3.2_User_input/User_input.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3.2_User_input/src/User_input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.5_OOP_review/4.5_OOP_review.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1155165269">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.opened" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="4347" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4347" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/ablaze/Contact.java" />
+        <option value="$PROJECT_DIR$/src/com/ablaze/Mobile_phone.java" />
+        <option value="$PROJECT_DIR$/src/com/ablaze/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="632" />
+    <option name="y" value="7" />
+    <option name="width" value="1162" />
+    <option name="height" value="965" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="5.2_ArrayList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5.2_ArrayList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5.2_ArrayList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5.2_ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="5.2_ArrayList" type="b2602c69:ProjectViewProjectNode" />
+              <item name="5.2_ArrayList" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="ablaze" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539674295912" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.ablaze.Main" />
+      <module name="5.2_ArrayList" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="526c85aa-7b85-49bf-8f48-d1d4c5f6489e" name="Default Changelist" comment="" />
+      <created>1539671290194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539671290194</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="506" y="6" width="929" height="772" extended-state="0" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.18872267" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32907802" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Capture Analysis" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
+      <window_info anchor="right" id="Run" order="8" weight="0.38187918" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/ablaze/Mobile_phone.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/ablaze/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ablaze/Mobile_phone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="89" column="63" selection-start-line="89" selection-start-column="63" selection-end-line="89" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/ablaze/Contact.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="609">
+          <caret line="40" column="28" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
