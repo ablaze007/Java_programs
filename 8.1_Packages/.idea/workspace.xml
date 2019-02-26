@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="8.1_Packages:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="507f67bb-2387-44c4-9b54-0d0cc69d01ae" name="Default Changelist" comment="">
+    <list default="true" id="e3676840-fc1c-4293-8d46-01556c0ab98a" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../1_Hello_world/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../1_Hello_world/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../1_Hello_world/.idea/workspace.xml" afterDir="false" />
@@ -34,6 +39,7 @@
       <change afterPath="$PROJECT_DIR$/../3.2_User_input/out/production/3.2_User_input/User_input.class" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../3.2_User_input/src/User_input.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../4.5_OOP_review/4.5_OOP_review.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8.1_Packages.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,35 +48,27 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="76153011">
+    <session id="2097122832">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.37" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="2545" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2545" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="3" />
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="506" />
         </counts>
       </usages-collector>
     </session>
@@ -78,28 +76,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/ablaze/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/com/example/ablaze/Series.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ablaze/League.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="648">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/ablaze/Football_team.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            <state relative-caret-position="192">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -119,11 +99,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Football.java" />
-        <option value="$PROJECT_DIR$/src/League.java" />
-        <option value="$PROJECT_DIR$/src/com/ablaze/Football_team.java" />
+        <option value="$PROJECT_DIR$/src/com/ablaze/Series.java" />
         <option value="$PROJECT_DIR$/src/com/ablaze/Main.java" />
-        <option value="$PROJECT_DIR$/src/com/ablaze/League.java" />
+        <option value="$PROJECT_DIR$/src/com/example/ablaze/Series.java" />
       </list>
     </option>
   </component>
@@ -141,23 +119,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="7.1_Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7.1_Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="8.1_Packages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8.1_Packages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="7.1_Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7.1_Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="8.1_Packages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8.1_Packages" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="7.1_Generics" type="b2602c69:ProjectViewProjectNode" />
-              <item name="7.1_Generics" type="462c0819:PsiDirectoryNode" />
+              <item name="8.1_Packages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="8.1_Packages" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ablaze" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -165,14 +141,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541056122963" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549436203333" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -189,7 +166,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.ablaze.Main" />
-      <module name="7.1_Generics" />
+      <module name="8.1_Packages" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -208,11 +185,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="507f67bb-2387-44c4-9b54-0d0cc69d01ae" name="Default Changelist" comment="" />
-      <created>1541053452679</created>
+      <changelist id="e3676840-fc1c-4293-8d46-01556c0ab98a" name="Default Changelist" comment="" />
+      <created>1549435422989</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541053452679</updated>
+      <updated>1549435422989</updated>
     </task>
     <servers />
   </component>
@@ -225,12 +202,12 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.110067114" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.10738255" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="3" />
+      <window_info anchor="bottom" id="Messages" order="3" weight="0.32907802" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
@@ -252,25 +229,17 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Football.java" />
     <entry file="file://$PROJECT_DIR$/src/com/ablaze/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ablaze/League.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/ablaze/Series.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/ablaze/Football_team.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -280,10 +249,12 @@
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
           <artifact-editor />
+          <last-edited>8.1_Packages:jar</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -326,7 +297,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>7.1_Generics</last-edited>
+          <last-edited>8.1_Packages</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
