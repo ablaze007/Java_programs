@@ -76,6 +76,7 @@ public class Main
 
     private static void addExits()
     {
+        //TODO: Use regex replace option to convert these
         locations.get(1).addExit("N",5);
         locations.get(1).addExit("W",2);
         locations.get(1).addExit("S",4);

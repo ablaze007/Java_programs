@@ -4,6 +4,7 @@ package com.ablaze;
 import java.util.Map;
 import java.util.HashMap;
 
+//TODO: Make location class final
 public class Location
 {
     //************ VARIABLES ************
