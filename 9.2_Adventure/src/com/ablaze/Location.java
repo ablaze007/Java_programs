@@ -4,8 +4,8 @@ package com.ablaze;
 import java.util.Map;
 import java.util.HashMap;
 
-//TODO: Make location class final
-public class Location
+//Immutable class
+public final class Location
 {
     //************ VARIABLES ************
     private final int id;
@@ -13,19 +13,20 @@ public class Location
     private final Map<String, Integer> exits;
 
     //*********** CONSTRUCTORS **********
-    Location(int id, String description)
+    Location(int id, String description, Map<String, Integer> exits)
     {
         this.id = id;
         this.description = description;
-        exits = new HashMap<>();
-        exits.put("Q",0);
+        //new HashMap is instantiated inorder to
+        //prevent changes made to parameter
+        //exits to change the instance variable exits
+        if(exits == null)
+            this.exits = new HashMap<>();
+        else
+            this.exits = new HashMap<>(exits);
+        this.exits.put("Q",0);
     }
 
-    //************* METHODS *************
-    public void addExit(String direction, int location)
-    {
-        exits.put(direction, location);
-    }
     //~~~~~~ GETTERS AND SETTERS ~~~~~~~~
     public int getId()
     {
