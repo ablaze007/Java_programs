@@ -21,7 +21,7 @@ public class Main
         //Print all planets
         System.out.println("Planets");
         for(HeavenlyBody h : planets)
-            System.out.println("\t"+h.getName());
+            System.out.println("\t"+h.getName()+" - "+h.getOrbitalPeriod());
         System.out.println();
 
         //create a method to print all moons
@@ -108,6 +108,13 @@ public class Main
         planets.add(temp);
 
         temp = new HeavenlyBody("Pluto", 248);
+        solarSystem.put(temp.getName(), temp);
+        planets.add(temp);
+
+        //the following object will not be added to hashset of planet
+        //since temp will hash to the same bucket where previous pluto
+        //is located and thus prevents the duplicate values
+        temp = new HeavenlyBody("Pluto", 247);
         solarSystem.put(temp.getName(), temp);
         planets.add(temp);
     }

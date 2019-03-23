@@ -28,6 +28,22 @@ public final class HeavenlyBody
         return this.satellites.add(moon);
     }
 
+    @Override
+    public boolean equals(Object obj)
+    {
+        if(this == obj)
+            return true;
+        if(obj == null || obj.getClass()!=this.getClass())
+            return false;
+        return this.getName().equals(((HeavenlyBody)obj).getName());
+    }
+
+    @Override
+    public int hashCode()
+    {
+        return this.getName().hashCode()+7;
+    }
+
     //~~~~~~ GETTERS AND SETTERS ~~~~~~~~
     public String getName()
     {
