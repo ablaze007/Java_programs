@@ -1,0 +1,30 @@
+CORE JAVA
+
+X1. Data types and Operators
+X2. Control flow statements
+X3. Object Oriented Programming
+X4. Packages
+X5. Statics
+X6. Constructors
+7. Exception handling
+X8. Strings and String operations
+X9. Collection Framework
+X10. Generics
+11. Streams
+12. Serialization
+X13. Inner classes
+X14. Access Modifiers
+15. Applets
+
+ADVANCED JAVA
+1. Java Database Connectivity (JDBC)
+2. Regular Expression
+3. Threading
+4. Concurrency
+5. Servlets and JSPs
+6. Swing GUI
+
+Frameworks
+  - Spring
+  - Hibernate
+  - Structs
