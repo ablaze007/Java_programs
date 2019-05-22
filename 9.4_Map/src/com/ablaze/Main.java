@@ -110,6 +110,8 @@ public class Main
                     ShortMenu();
             }
         }
+		//TODO close scanner
+		//scanner.close();
     }
 
     //TO print success messages
