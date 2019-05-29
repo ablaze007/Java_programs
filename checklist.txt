@@ -6,7 +6,7 @@ X3. Object Oriented Programming
 X4. Packages
 X5. Statics
 X6. Constructors
-7. Exception handling
+X7. Exception handling
 X8. Strings and String operations
 X9. Collection Framework
 X10. Generics
@@ -14,17 +14,20 @@ X10. Generics
 12. Serialization
 X13. Inner classes
 X14. Access Modifiers
-15. Applets
+15. Regular Expression
+16. Threading
+17. Concurrency
+18. 
 
 ADVANCED JAVA
 1. Java Database Connectivity (JDBC)
-2. Regular Expression
-3. Threading
-4. Concurrency
-5. Servlets and JSPs
-6. Swing GUI
+2. Servlets and JSPs
+3. Applets
+4. Swing GUI
+x5. JUnit
 
 Frameworks
   - Spring
   - Hibernate
-  - Structs
+  - Struts
+  - SOAP/REST
