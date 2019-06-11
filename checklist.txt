@@ -10,14 +10,13 @@ X7. Exception handling
 X8. Strings and String operations
 X9. Collection Framework
 X10. Generics
-11. Streams
-12. Serialization
+X11. Streams
+X12. Serialization
 X13. Inner classes
 X14. Access Modifiers
 15. Regular Expression
 16. Threading
-17. Concurrency
-18. 
+17. Concurrency 
 
 ADVANCED JAVA
 1. Java Database Connectivity (JDBC)
