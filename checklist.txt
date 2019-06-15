@@ -15,8 +15,9 @@ X12. Serialization
 X13. Inner classes
 X14. Access Modifiers
 15. Regular Expression
-16. Threading
-17. Concurrency 
+X16. Threading
+X17. Concurrency 
+X18. Lambda Expression
 
 ADVANCED JAVA
 1. Java Database Connectivity (JDBC)
